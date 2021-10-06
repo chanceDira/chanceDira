@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 - 🇷🇼 Rwandan #Africa
 - ⚡ The better you learn, the better ... 😄 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeanndo&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeanndo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanceDira&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanceDira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
