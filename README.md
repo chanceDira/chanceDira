@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am a Javascript developer.
 - 👯 Think like a compiler.
-- 📫Inbox me: <a href="chancedesire60@gmail.com">send me an email</a>
+- 📫Inbox me: <a href="chancedesire60@gmail.com">chancedesire60@gmail.com</a>
 - 🌱 I’m currently learning Solidity and NodeJs
 - 👯 I’m looking to collaborate on ReactJs and Ethereum Smart Contract 
 - 🤔 I’m looking for help with Decentralized Exchange (DEX)
