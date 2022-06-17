@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 ### Intro.
 
 - 🔭 I am a Javascript developer.
-- 👯 Think like a compiler.
+- 👯 Typing wise is fun.
 - 📫Inbox me: <a href="chancedesire60@gmail.com">chancedesire60@gmail.com</a>
-- 🌱 I’m currently learning Solidity and NodeJs
+- 🌱 I’m currently learning Solana & Ethereum
 - 👯 I’m looking to collaborate on ReactJs and Ethereum Smart Contract 
 - 🤔 I’m looking for help with Decentralized Exchange (DEX)
 - 💬 +250787259588
