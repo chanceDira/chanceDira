@@ -47,15 +47,13 @@ Here are some ideas to get you started:
 
 ### Intro.
 
-- 🔭 I am a Javascript developer.
-- 👯 Typing wise is fun.
+- 🔭 I am a Software developer and am good at learning new staff.
 - 📫Inbox me: <a href="chancedesire60@gmail.com">chancedesire60@gmail.com</a>
-- 🌱 I’m currently learning Solana & Ethereum
-- 👯 I’m looking to collaborate on ReactJs and Ethereum Smart Contract 
+- 🌱 I’m currently learning web3. I talk about Ethereum, Hive, Polygon & Solana 
 - 🤔 I’m looking for help with Decentralized Exchange (DEX)
 - 💬 +250787259588
 - 🇷🇼 Rwandan #Africa
-- ⚡ The better you learn, the better ... 😄 
+- ⚡ The more you learn, the better ... 😄 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanceDira&hide=isues,stars&?count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanceDira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
