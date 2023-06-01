@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Software developer and am good at learning new staff<br>👯 I’m looking for collaboration on Decentralized Exchange (DEX)<br>🤝 Inbox me: chancedesire60@gmail.com<br>🌱 I’m currently learning web3&openai. I talk about Ethereum, Hive, Polygon & Solana<br>💬 +250787259588<br>⚡ The more you learn, the better ...<br>Rwandan #Africa<br>www.chancedira.com
+🔭 I am a Software developer and am good at learning new staff<br>👯 I’m looking for collaboration on Decentralized Exchange (DEX)<br>🤝 Inbox me: chancedesire60@gmail.com<br>🌱 I’m currently learning web3&openai. I talk about Ethereum, Hive, Polygon & Solana<br>💬 +250787259588<br>⚡ The more you learn, the better ...<br>Rwandan #Africa<br>https://chancedira.com
 
 
 ## 🌐 Socials:
